@@ -1,0 +1,7 @@
+site_name: Fil Rouge — Audit & Methodology
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Governance:
+      - Charter: governance/charter.md
